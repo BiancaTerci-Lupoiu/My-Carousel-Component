@@ -1,6 +1,6 @@
 # my-carousel
 
-My carousel is a simple carousel Lit Component for a list of notes with customizable title and background color. The list of notes can either be set as a property of the component or/and notes can be added manually by providing a title and selecting a color through a form included in the my-carousel component.
+My carousel is a simple notes carousel Lit Component that contains a list of notes with customizable title and background color. The list of notes can either be set as a property of the component or/and notes can be added manually by providing a title and selecting a color through a form included in the my-carousel component.
 
 ## Install
 
@@ -66,6 +66,6 @@ This event listener slides the carousel to the right bringing the previous item 
 
 This event listener slides the carousel to the left bringing the next item from the right into view.
 
-### "click" event on "Add" button
+#### "click" event on "Add" button
 
 This event listener adds a new item to the items list based on what was inserted in the "Title" and "Color" input fields. The new item can be seen at the and of the carousel.
