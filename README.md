@@ -1,6 +1,6 @@
 # my-carousel
 
-My carousel is a simple carousel with a list of notes UI element showing a list of notes with customizable title and background color. The list of notes can either be set as a property of the component or/and notes can be added manually by providing a title and selecting a color through a form included in the my-carousel component.
+My carousel is a simple carousel Lit Component for a list of notes with customizable title and background color. The list of notes can either be set as a property of the component or/and notes can be added manually by providing a title and selecting a color through a form included in the my-carousel component.
 
 ## Install
 
