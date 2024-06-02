@@ -1,7 +1,7 @@
 {
   "name": "my-carousel-notebook",
   "private": false,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "main":"dist/my-carousel.js",
   "types":"types/my-carousel.d.ts",
